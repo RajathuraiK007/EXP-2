@@ -77,6 +77,17 @@ Load Characteristics:
 
 ![WhatsApp Image 2025-12-27 at 9 46 03 AM](https://github.com/user-attachments/assets/94021d30-b730-49f9-9463-b144b9142c42)
 
+Open Circuit Characteristics:
+
+<img width="1290" height="907" alt="image" src="https://github.com/user-attachments/assets/369d9ffb-57e5-4c43-826a-0e3fa8cba8cd" />
+
+Load Characteristics:
+
+<img width="1308" height="914" alt="image" src="https://github.com/user-attachments/assets/7edb63b9-5e3f-40fa-8f77-cc302393ea6d" />
+
+
+
+
 
 
   
